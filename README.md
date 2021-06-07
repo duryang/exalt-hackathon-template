@@ -19,10 +19,7 @@ Even though the 2nd bush contains the most berries, it is better to collect from
 The test case is invalid as a bush cannot have a negative number of berries. So the result should be -1.
  
 ###### Sample Output
-11
-10
--1
-
+11</br>10</br>-1
  
 ## Please Note
 You must use the standard I/O library from your chosen language to read/write the file. No third-party libraries are allowed to use. Currently, you should work with a .TXT file for reading and writing. But make sure that later it should be easy to add support for other input files (such as CSV, XLSX, XML etc.) to your code without much code refactoring. 
