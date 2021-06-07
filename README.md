@@ -7,15 +7,15 @@ Each test case contains space-separated integers representing the number of berr
 
 ### Sample Test Cases
 ###### Test case 1
-4 2 5 7
+4 2 5 7</br>
 The optimal way is to collect from the 1st and 4th bushes, so the solution is 4 + 7 = 11.
  
 ###### Test case 2
-4 9 6
+4 9 6</br>
 Even though the 2nd bush contains the most berries, it is better to collect from the 1st and 3rd bushes to get the maximum number. The solution is 4 + 6 = 10.
  
 ###### Test case 3
-3 5 -7
+3 5 -7</br>
 The test case is invalid as a bush cannot have a negative number of berries. So the result should be -1.
  
 ###### Sample Output
