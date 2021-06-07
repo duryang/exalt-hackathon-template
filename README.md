@@ -42,7 +42,7 @@ NOTE: Each line should correspond to the result of a single test case.
 Make sure that each line of output corresponds the right test case.
  
 ## Submission process
-Submit the output txt file using the form.https://toffy.work/hackathon
-Submit the project code using the github classroom: 
-https://classroom.github.com/assignment-invitations/484f0651da4fade8e56ca6ba4645cc65/status 
+Submit the output txt file using the form.https://toffy.work/hackathon</br>
+Submit the project code using the github classroom:</br>
+https://classroom.github.com/assignment-invitations/484f0651da4fade8e56ca6ba4645cc65/status</br>
 OR If you do not have any github account you can send it via email to hadi.awad@EXALT.ps 
