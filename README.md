@@ -35,7 +35,7 @@ For the input file, you should:
 2) Before feeding the inputs from the file to your algorithm, you should validate them. There might be cases when the input file contains non-numeric or negative values. In this case the result should be -1.
 
 ## Problem Output rules and structure
-As described above, your program should be capable of reading a text file named“input.txt” that contains the test cases. After reading, validating the input and passing it to your algorithm you should save the results as ․txt file in the following format:
+As described above, your program should be capable of reading a text file named “input.txt” that contains the test cases. After reading, validating the input and passing it to your algorithm you should save the results as ․txt file in the following format:
 </br>11</br>10</br>-1</br>…
 
 NOTE: Each line should correspond to the result of a single test case.
