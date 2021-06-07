@@ -29,7 +29,7 @@ You must use the standard I/O library from your chosen language to read/write th
 
 ## Problem Input rules and structure
 The test cases are given in the input.txt file. It is assured that the testing input file structure is the same as you see in your input.txt file.
-4 2 5 7</br>4 9 6</br>3 5 -7</br>…
+</br>4 2 5 7</br>4 9 6</br>3 5 -7</br>…
  
 **NOTE**: Each line corresponds to a single test case. Make sure you are reading in the same order that is given in the .txt file.
 
@@ -39,7 +39,7 @@ For the input file, you should:
 
 ## Problem Output rules and structure
 As described above, your program should be capable of reading a text file named“input.txt” that contains the test cases. After reading, validating the input and passing it to your algorithm you should save the results as ․txt file in the following format:
-11</br>10</br>-1</br>…
+</br>11</br>10</br>-1</br>…
 
 NOTE: Each line should correspond to the result of a single test case.
 Make sure that each line of output corresponds the right test case.
